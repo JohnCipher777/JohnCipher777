@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jhonlloydcruz7@gmail.com**
 
-- ⚡ Fun fact **I'm passionate to learn more in programming**
+- ⚡ Fun fact **I'm a self-learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
