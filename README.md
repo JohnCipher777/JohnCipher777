@@ -1,19 +1,19 @@
 
 ![MasterHead](https://wolseyhalloxford.org.uk/wp-content/uploads/2020/05/AL-Computer-Science-Banner-min.jpg)
-<h1 align="center">Hi 👋, I'm GhostScr1pt</h1>
-<h3 align="center">A soon to be Software Engineer & UI Designer</h3>
+<h1 align="center">Hi 👋, I'm 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺</h1>
+<h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostscr1pt&label=Profile%20views&color=0e75b6&style=flat" alt="ghostscr1pt" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I am currently **developing my technical knowledge, practical skills, and cultivating a security-focused mindset.**
 
-- 👯 I’m looking to collaborate on **developing a software**
+- 👯 I’m looking to collaborate on **cybersecurity research, projects, or initiatives, leveraging my technical knowledge, practical skills, and security-focused mindset to contribute to the development of innovative solutions for protecting against cyber threats.**
 
-- 💬 Ask me about **software development**
+- 💬 Ask me about **technological-related stuff**
 
-- 📫 How to reach me **jhonlloydcruz7@gmail.com**
+- 📫 How to reach me **darkages38@gmail.com**
 
-- ⚡ Fun fact **I'm a self-learner**
+- ⚡ Fun fact **I'm an Independent & Self-taught learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
