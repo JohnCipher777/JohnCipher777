@@ -1,7 +1,6 @@
 ![MasterHead](https://wolseyhalloxford.org.uk/wp-content/uploads/2020/05/AL-Computer-Science-Banner-min.jpg)
 <h1 align="center">Hi 👋, I'm 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺</h1>
 <h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
-`VISITORS` <img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostscr1pt&label=Profile%20views&color=0e75b6&style=flat" alt="ghostscr1pt" /> </p>
 
@@ -21,6 +20,7 @@
 <a href="https://fb.com/jhonlloyd.cruz.758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonlloyd.cruz.758" height="30" width="40" /></a>
 </p>
 
+`VISITORS` <img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowR3aper&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ShadowR3aper&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
