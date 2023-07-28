@@ -3,7 +3,7 @@
 <h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
-#### VISITORS :<img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />
+`VISITORS :<img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />`
 
 - 🌱 I am currently **developing my technical knowledge, practical skills, and cultivating a security-focused mindset.**
 
