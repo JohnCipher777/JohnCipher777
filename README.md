@@ -21,11 +21,18 @@ Visitors:<img align="center" height="30px" src="https://profile-counter.glitch.m
 <a href="https://fb.com/jhonlloyd.cruz.758" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jhonlloyd.cruz.758" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostscr1pt&show_icons=true&locale=en&layout=compact" alt="ghostscr1pt" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostscr1pt&show_icons=true&locale=en" alt="ghostscr1pt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostscr1pt&" alt="ghostscr1pt" /></p>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowR3aper&bg_color=222222&color=ffffff&line=1890ff&point=ffffff&area=true&hide_border=false" />
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ShadowR3aper&theme=darkhub&no-frame=true&column=4&margin-w=36&margin-h=12" />
+</p>
+<p align="center">
+<img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mastercodercat&langs_count=8&theme=dark&layout=compact&hide=html,scss,makefile,ruby,css,less" />
+<img align="center" height="200px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShadowR3aper&show_icons=true&count_private=true&include_all_commits=true&line_height=25&theme=dark" alt="Hiroki's Github Stats" />
+</p>
+</p>
+<div align="center" style="font-size: 25px;font-weight: 900;">
+  <a href="https://github.com/starlitnightsky">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShadowR3aper&theme=dark" />
+  </a>
+</div>
+</section>
