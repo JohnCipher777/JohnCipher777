@@ -1,7 +1,7 @@
 ![MasterHead](https://wolseyhalloxford.org.uk/wp-content/uploads/2020/05/AL-Computer-Science-Banner-min.jpg)
 <h1 align="center">Hi 👋, I'm 丂ʜᴀᴅᴏᴡ尺ᴇᴀᴘᴇ尺</h1>
 <h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
-Visitors:<img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />
+### Visitors: <img align="center" height="30px" src="https://profile-counter.glitch.me/ShadowR3aper/count.svg" />
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostscr1pt&label=Profile%20views&color=0e75b6&style=flat" alt="ghostscr1pt" /> </p>
 
@@ -13,7 +13,7 @@ Visitors:<img align="center" height="30px" src="https://profile-counter.glitch.m
 
 - 📫 How to reach me **darkages38@gmail.com**
 
-- ⚡ Fun fact **I'm an Independent & Self-taught learner**
+- ⚡ Fun fact **I'm an Independent & Self-taught Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
