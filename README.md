@@ -1,5 +1,5 @@
 ![MasterHead](https://wolseyhalloxford.org.uk/wp-content/uploads/2020/05/AL-Computer-Science-Banner-min.jpg)
-<h1 align="center">Hi 👋, I'm ᴊᴏʜɴ ᴄɪᴘʜᴇʀ</h1>
+<h1 align="center">Hi 👋, I'm JØⱧ₦ ₵ł₱ⱧɆⱤ</h1>
 <h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
 
