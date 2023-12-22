@@ -1,4 +1,4 @@
-![header133](https://github.com/JohnCipher777/JohnCipher777/assets/123635909/205a0921-23e2-49ef-9116-59b77ed9831a)
+![header3](https://github.com/JohnCipher777/JohnCipher777/assets/123635909/82fdb3ac-92c6-4524-9d14-90a5528498fb)
 <h1 align="center">Hi 👋, I'm 𝕵𝖔𝖍𝖓 𝕮𝖎𝖕𝖍𝖊𝖗</h1>
 <h3 align="center">Soon to be a Software Engineer or CyberSecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
